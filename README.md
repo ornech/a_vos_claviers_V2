@@ -9,7 +9,7 @@ Prérequis : Docker (sous Windows : WSL2). Pas besoin d'installer PHP, Composer 
 ## Première installation
 
 ```sh
-git clone <url-du-depot> a_vos_claviers_V2
+git clone https://github.com/ornech/a_vos_claviers_V2.git
 cd a_vos_claviers_V2
 
 # 1. Dépendances PHP (conteneur jetable : le dossier vendor/ n'existe pas encore)
